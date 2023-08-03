@@ -1,6 +1,6 @@
 alert("Bienvenido a la aventura")
 let nombre = prompt("Dime tu nombre")
-alert(`¡Hola ${nombre} bienvenido!`)
+alert(`¡Hola ${nombre} bienvenido/a!`)
 
 let eleccion = prompt ("Muy bien, empecemos; te encuentras en un bosque con un camino doble, ¿debes elegir, derecha o izquierda?")
 
